@@ -1,1 +1,3 @@
-# cs3113sp20-project2
+# Project2
+## Created by Branson Stickney
+Project 2 came with some difficulties, since my c programming is not the best I was unable to complete the assignment. I tried reading in the file with stdin and fgets(). fgets() reads the full line from the file and places it into a buffer called instruction. From there I decided to parse the instruction using sscanf(). This places the command into the instruction buffer, as well as place the process into another buffer and the number of bytes into another. For some reason I could not even get this to work and since I am basically out of time at this point I decided to throw up the white flag and call it quits. Hopefully this shows you how not to do the assignment. Thanks for you time.
